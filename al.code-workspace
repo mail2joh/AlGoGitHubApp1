@@ -17,6 +17,9 @@
                     },
                     {
                         "path":  "AlGoGitHubApp3Test"
+                    },
+                    {
+                        "path":  "AlGoGitHubApp2.Test"
                     }
                 ],
     "settings":  {
