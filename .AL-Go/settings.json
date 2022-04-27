@@ -3,5 +3,6 @@
     "appFolders":  [
     ],
     "testFolders":  [
-    ]
+    ],
+    "gitHubRunner": "self-hosted"
 }
