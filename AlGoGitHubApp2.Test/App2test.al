@@ -1,4 +1,4 @@
-﻿codeunit 90030 "HelloWorld Test"
+﻿codeunit 90030 "App2.HelloWorld.Test"
 {
     Subtype = Test;
 
@@ -17,7 +17,7 @@
     [MessageHandler]
     procedure HelloWorldMessageHandler(Message: Text[1024])
     begin
-        MessageDisplayed := MessageDisplayed or (Message = 'App published: Hello world');
+        MessageDisplayed := MessageDisplayed or (Message = 'App published: Hello world - App2');
     end;
 
     var
