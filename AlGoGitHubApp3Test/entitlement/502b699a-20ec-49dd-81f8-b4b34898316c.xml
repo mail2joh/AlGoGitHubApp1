@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Entitlement MetadataVersion="130000" Name="502b699a-20ec-49dd-81f8-b4b34898316c" Type="Implicit" xmlns="urn:schemas-microsoft-com:dynamics:NAV:MetaObjects">
+  <ObjectEntitlements>
+    <Permission Type="5" ID="90020" Value="16" />
+  </ObjectEntitlements>
+</Entitlement>

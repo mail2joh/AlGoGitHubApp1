@@ -1,0 +1,46 @@
+﻿{
+    "id":  "502b699a-20ec-49dd-81f8-b4b34898316c",
+    "name":  "AlGoGitHubApp3Test",
+    "publisher":  "JOH",
+    "version":  "1.0.0.0",
+    "brief":  "",
+    "description":  "",
+    "platform":  "1.0.0.0",
+    "application":  "20.0.0.0",
+    "runtime":  "9.0",
+    "logo":  "",
+    "url":  "",
+    "EULA":  "",
+    "privacyStatement":  "",
+    "help":  "",
+    "target":  "Extension",
+    "screenshots":  [
+
+                    ],
+    "dependencies":  [
+                         {
+                             "id":  "0dbf3f80-ac00-49d0-b3d6-6a4114b3f7d9",
+                             "publisher":  "JOH",
+                             "name":  "AlGoGitHubApp3",
+                             "version":  "1.0.0.0"
+                         }
+                     ],
+    "idRanges":  [
+                     {
+                         "from":  90020,
+                         "to":  90029
+                     }
+                 ],
+    "features":  [
+
+                 ],
+    "resourceExposurePolicy":  {
+
+                               },
+    "internalsVisibleTo":  [
+
+                           ],
+    "keyVaultUrls":  [
+
+                     ]
+}
