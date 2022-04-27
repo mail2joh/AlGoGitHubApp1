@@ -17,7 +17,7 @@ codeunit 90020 "App3.HelloWorld.Test"
     [MessageHandler]
     procedure HelloWorldMessageHandler(Message: Text[1024])
     begin
-        MessageDisplayed := MessageDisplayed or (Message = 'App published: Hello world - App3.FEL');
+        MessageDisplayed := MessageDisplayed or (Message = 'App published: Hello world - App3');
     end;
 
     var
