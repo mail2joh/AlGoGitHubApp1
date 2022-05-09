@@ -1,5 +1,6 @@
 {
     "country": "se",
     "appFolders": [],
-    "testFolders": []
+    "testFolders": [],
+    "VersionStrategy" : 16
 }
