@@ -17,7 +17,7 @@
     [MessageHandler]
     procedure HelloWorldMessageHandler(Message: Text[1024])
     begin
-        MessageDisplayed := MessageDisplayed or (Message = 'App published: Hello world - App2');
+        MessageDisplayed := MessageDisplayed or (Message = 'App published: Hello world - App2 NEW');
     end;
 
     var
