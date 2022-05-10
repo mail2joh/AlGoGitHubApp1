@@ -1,6 +1,8 @@
 ﻿name: Test Next Major
 
 on:
+  schedule:
+  - cron: '5 5 * * *'
   workflow_dispatch:
 
 permissions:
