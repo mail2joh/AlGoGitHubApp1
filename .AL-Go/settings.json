@@ -6,6 +6,6 @@
     "testFolders":  [
 
                     ],
-    "RepoVersion":  "1.2",
-    "VersionStrategy" : 16
+    "RepoVersion":  "1.5",
+    "VersionStrategy":  16
 }
