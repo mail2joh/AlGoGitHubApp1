@@ -1,6 +1,11 @@
-{
-    "country": "se",
-    "appFolders": [],
-    "testFolders": [],
+﻿{
+    "country":  "se",
+    "appFolders":  [
+
+                   ],
+    "testFolders":  [
+
+                    ],
+    "RepoVersion":  "1.2",
     "VersionStrategy" : 16
 }

@@ -2,7 +2,7 @@
     "id":  "bd028216-7611-4709-88fd-4f19b1a49567",
     "name":  "Loyalty",
     "publisher":  "MS",
-    "version":  "1.0.0.0",
+    "version":  "1.2.0.0",
     "brief":  "",
     "description":  "",
     "privacyStatement":  "",
@@ -18,7 +18,7 @@
                     ],
     "platform":  "1.0.0.0",
     "application":  "19.0.0.0",
-    "runtime": "9.0",
+    "runtime":  "9.0",
     "idRanges":  [
                      {
                          "from":  50000,
