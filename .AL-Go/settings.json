@@ -7,5 +7,6 @@
 
                     ],
     "RepoVersion":  "1.9",
-    "VersionStrategy":  16
+    "VersionStrategy":  16,
+    "keyVaultName": "JOHKeyVaultNew"
 }
