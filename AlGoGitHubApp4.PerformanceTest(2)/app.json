@@ -1,0 +1,46 @@
+﻿{
+    "id":  "b1f8ae89-637e-47b9-8f3c-16a9443c2294",
+    "name":  "AlGoGitHubApp4.PerformanceTest",
+    "publisher":  "JOH",
+    "version":  "1.0.0.0",
+    "brief":  "Performance Toolkit Samples (SE)",
+    "description":  "This extension provides tests that simulate business processes, such as creating sales orders, for the Business Central Performance Toolkit. Developers can use these to test for performance regressions during development.",
+    "platform":  "20.0.0.0",
+    "application":  "20.1.0.0",
+    "runtime":  "9.1",
+    "logo":  "",
+    "url":  "",
+    "EULA":  "",
+    "privacyStatement":  "",
+    "help":  "",
+    "target":  "Cloud",
+    "screenshots":  [
+
+                    ],
+    "dependencies":  [
+                         {
+                             "id":  "75f1590f-55c5-4501-ae63-bada5534e852",
+                             "publisher":  "Microsoft",
+                             "name":  "Performance Toolkit",
+                             "version":  "20.1.0.0"
+                         }
+                     ],
+    "idRanges":  [
+                     {
+                         "from":  90040,
+                         "to":  90049
+                     }
+                 ],
+    "features":  [
+
+                 ],
+    "resourceExposurePolicy":  {
+
+                               },
+    "internalsVisibleTo":  [
+
+                           ],
+    "keyVaultUrls":  [
+
+                     ]
+}
