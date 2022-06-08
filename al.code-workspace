@@ -1,4 +1,4 @@
-﻿{
+{
     "folders":  [
                     {
                         "path":  ".AL-Go"
@@ -17,12 +17,6 @@
                     },
                     {
                         "path":  "AlGoGitHubApp2.Test"
-                    },
-                    {
-                        "path":  "AlGoGitHubApp4.PerformanceTest"
-                    },
-                    {
-                        "path":  "AlGoGitHubApp4.PerformanceTest(2)"
                     }
                 ],
     "settings":  {
