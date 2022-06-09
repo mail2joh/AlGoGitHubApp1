@@ -12,5 +12,7 @@
     "Environments":  [
                          "joh-qa"
                      ],
-     doNotBuildTests:true
+     doNotBuildTests:true,
+     doNotRunTests:false,
+	 doNotRunBcptTests:false
 }
