@@ -11,5 +11,6 @@
     "keyVaultName":  "JOHKeyVaultNew2",
     "Environments":  [
                          "joh-qa"
-                     ]
+                     ],
+     doNotBuildTests:true
 }
