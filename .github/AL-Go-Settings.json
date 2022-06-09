@@ -3,5 +3,5 @@
     "templateUrl":  "https://github.com/microsoft/AL-Go-PTE@main",
     "NextMinorSchedule":  "5 4 * * *",
     "NextMajorSchedule":  "5 5 * * *",
-     "runs-on": "self-hosted"
+     "githubRunner": "self-hosted"
 }
