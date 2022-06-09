@@ -8,7 +8,7 @@
                     ],
     "RepoVersion":  "2.0",
     "VersionStrategy": 16,
-    "keyVaultName": "JOHKeyVaultNew2"
+    "keyVaultName": "JOHKeyVaultNew2",
     "Environments": [
          "joh-qa"
      ]
