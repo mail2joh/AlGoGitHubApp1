@@ -6,7 +6,7 @@
     "testFolders":  [
 
                     ],
-    "RepoVersion":  "2.3",
+    "RepoVersion":  "2.4",
     "VersionStrategy":  16,
     "keyVaultName":  "JOHKeyVaultNew2",
     "Environments":  [
