@@ -6,13 +6,13 @@
     "testFolders":  [
 
                     ],
-    "RepoVersion":  "2.2",
+    "RepoVersion":  "2.3",
     "VersionStrategy":  16,
     "keyVaultName":  "JOHKeyVaultNew2",
     "Environments":  [
                          "joh-qa"
                      ],
-     doNotBuildTests:true,
-     doNotRunTests:false,
-	 doNotRunBcptTests:false
+    "doNotBuildTests":  true,
+    "doNotRunTests":  false,
+    "doNotRunBcptTests":  false
 }
