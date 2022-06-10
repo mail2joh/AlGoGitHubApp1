@@ -2,6 +2,5 @@
     "type":  "PTE",
     "templateUrl":  "https://github.com/microsoft/AL-Go-PTE@main",
     "NextMinorSchedule":  "5 4 * * *",
-    "NextMajorSchedule":  "5 5 * * *",
-     "githubRunner": "self-hosted"
+    "NextMajorSchedule":  "5 5 * * *"
 }
