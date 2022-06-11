@@ -10,7 +10,7 @@
     "VersionStrategy":  16,
     "keyVaultName":  "JOHKeyVaultNew2",
     "Environments":  [
-                         "SJOMAT_QA"
+                         "SJOMAT_QA", "SJOMAT_CICD"
                      ],
     "doNotBuildTests":  true,
     "doNotRunTests":  false,
