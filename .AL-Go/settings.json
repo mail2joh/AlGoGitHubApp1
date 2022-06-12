@@ -6,11 +6,11 @@
     "testFolders":  [
 
                     ],
-    "RepoVersion":  "2.6",
+    "RepoVersion":  "2.7",
     "VersionStrategy":  16,
     "keyVaultName":  "JOHKeyVaultNew2",
     "Environments":  [
-                         "SJOMAT_DEV"
+                         "SJOMAT_QA",
                      ],
     "doNotBuildTests":  true,
     "doNotRunTests":  false,
