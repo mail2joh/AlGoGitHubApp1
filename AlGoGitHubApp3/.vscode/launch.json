@@ -14,9 +14,9 @@
                            {
                                "type":  "al",
                                "request":  "launch",
-                               "name":  "Cloud Sandbox (SJOMAT_QA)",
+                               "name":  "Cloud Sandbox (SJOMAT_DEV)",
                                "environmentType":  "Sandbox",
-                               "environmentName":  "SJOMAT_QA"
+                               "environmentName":  "SJOMAT_DEV"
                            }
                        ]
 }
