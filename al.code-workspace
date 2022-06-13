@@ -1,4 +1,4 @@
-﻿{
+{
     "folders":  [
                     {
                         "path":  ".AL-Go"
@@ -7,16 +7,16 @@
                         "path":  "Loyalty"
                     },
                     {
-                        "path":  "AlGoGitHubApp3"
-                    },
-                    {
                         "path":  "AlGoGitHubApp2"
                     },
                     {
-                        "path":  "AlGoGitHubApp3.Test"
+                        "path":  "AlGoGitHubApp2.Test"
                     },
                     {
-                        "path":  "AlGoGitHubApp2.Test"
+                        "path":  "AlGoGitHubApp3"
+                    },
+                    {
+                        "path":  "AlGoGitHubApp3.Test"
                     },
                     {
                         "path":  "AlGoGitHubApp4.PerformanceTest"
