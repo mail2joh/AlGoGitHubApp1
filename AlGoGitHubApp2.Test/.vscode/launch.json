@@ -12,11 +12,21 @@
                                "authentication":  "UserPassword"
                            },
                            {
-                               "type":  "al",
-                               "request":  "launch",
-                               "name":  "Cloud Sandbox (SJOMAT_DEV)",
-                               "environmentType":  "Sandbox",
-                               "environmentName":  "SJOMAT_DEV"
-                           }
+                            "name": "Microsoft cloud sandbox-SJOMAT_DEV",
+                            "request": "launch",
+                            "type": "al",
+                            "environmentType": "Sandbox",
+                            "server": "https://businesscentral.dynamics.com/",
+                            "tenant": "a93fb7db-53e1-4e77-8d32-117496d1f408",
+                            "environmentName": "SJOMAT_DEV",
+                            "authentication": "AAD",
+                            "startupObjectId": 74001,
+                            "startupObjectType": "Page",
+                            "breakOnError": true,
+                            "launchBrowser": true,
+                            "enableLongRunningSqlStatements": true,
+                            "enableSqlInformationDebugger": true,
+                            "schemaUpdateMode": "ForceSync"
+                        }
                        ]
 }
