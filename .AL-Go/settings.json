@@ -13,7 +13,7 @@
                          "SJOMAT_QA"
                      ],
     "doNotBuildTests":  false,
-    "doNotRunTests":  false,
+    "doNotRunTests":  true,
     "doNotRunBcptTests":  true,
     "skipUpgrade": true
 }
