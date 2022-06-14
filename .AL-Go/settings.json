@@ -12,7 +12,8 @@
     "Environments":  [
                          "SJOMAT_QA"
                      ],
-    "doNotBuildTests":  true,
+    "doNotBuildTests":  false,
     "doNotRunTests":  false,
-    "doNotRunBcptTests":  false
+    "doNotRunBcptTests":  false,
+    "skipUpgrade": false
 }
