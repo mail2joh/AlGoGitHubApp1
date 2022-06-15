@@ -17,9 +17,6 @@
                     },
                     {
                         "path":  "AlGoGitHubApp3.Test"
-                    },
-                    {
-                        "path":  "AlGoGitHubApp4.PerformanceTest"
                     }
                 ],
     "settings":  {
